@@ -1,1 +1,1 @@
-first draft of my code and simulation data for SGD dynamics analysis (needs to be extensively organized yet)
+first draft of my code and simulation data for SGD dynamics analysis (needs to be extensively organized yet). The code labeled "danilo..." was provided by dr. Danilo Forastiere as a first step in the anlysis
