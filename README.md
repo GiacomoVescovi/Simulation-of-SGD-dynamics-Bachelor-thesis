@@ -45,7 +45,7 @@ This project is a **Python/Jupyter conversion** of a Bachelor thesis originally 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/GiacomoVescovi/Simulation-of-SGD-dynamics-Bachelor-thesis.git
+   git clone https://github.com/GiacomoVescovi/Simulation-of-SGD-dynamics.git
    cd Simulation-of-SGD-dynamics-Bachelor-thesis
    ```
 
